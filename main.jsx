@@ -4,7 +4,7 @@ import { CheckCircle2, Plus, RotateCcw, ShieldCheck, TimerReset, TrendingUp } fr
 import "./styles.css";
 
 const MAX_TRADES = 3;
-const COOLDOWN_MINUTES = 20;
+const COOLDOWN_MINUTES = 30;
 
 const checklistItems = [
   "Clear setup",
